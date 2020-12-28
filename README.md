@@ -1,13 +1,3 @@
-# Next.js + TypeScript + Emotion Boilerplate
+# Clock
 
-## Included
-
-- TypeScript 4.x
-  - Updated (more strict) `tsconfig.json`
-- Emotion 11.x
-- Prettier config
-- Normalize.css
-- Font Awesome packages
-- Hooks:
-  - `useOutsideClick`
-  - `useWindowSize`
+> Widget displaying both analog and digital flip clocks.
