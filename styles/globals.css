@@ -1,0 +1,19 @@
+@import url('https://unpkg.com/normalize.css@latest/normalize.css');
+
+html,
+body {
+  background: linear-gradient(45deg, #d500f9, #651fff 60%);
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-size: 16px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
